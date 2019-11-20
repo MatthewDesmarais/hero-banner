@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: "Open Sans", sans-serif;
+  background-image: url("../images/placeholder-16by9.svg")
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+.heading {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.information {
+  text-align: center;
+  font-size: 2rem;
+
+}
